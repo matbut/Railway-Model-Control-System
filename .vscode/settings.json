@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/mateusz/.platformio/penv/bin:/home/mateusz/.platformio/penv:/home/mateusz/.sdkman/candidates/gradle/current/bin:/home/mateusz/bin:/home/mateusz/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
